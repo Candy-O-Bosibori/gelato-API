@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Boo Boo Bubble",
       "desc": "Boo Boo Bubble is a delightful ice cream flavor featuring a creamy vanilla base infused with bursts of colorful bubble gum pieces. Each spoonful offers a nostalgic blend of sweet vanilla and the playful pop of bubble gum, creating a fun and flavorful experience reminiscent of childhood treats.",
-      "img": "/home/candy/MORINGA/CODE/phase2/gelato-API/images/Screenshot from 2024-02-09 12-04-42.png",
+      "img": "https://media.gettyimages.com/id/145680683/photo/scoop-of-mint-chocolate-chip-ice-cream-on-white.jpg?s=612x612&w=0&k=20&c=3fBjTNOGWIq_aHOznYtDpV85ZEq7fKjRLEwIRd3d16k=",
       "price": 500,
       "options": [
         {
