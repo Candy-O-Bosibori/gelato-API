@@ -1,411 +1,382 @@
 {
-    "Products": [
+  "Products": [
+    {
+      "id": 1,
+      "title": "Boo Boo Bubble",
+      "desc": "Boo Boo Bubble is a delightful ice cream flavor featuring a creamy vanilla base infused with bursts of colorful bubble gum pieces. Each spoonful offers a nostalgic blend of sweet vanilla and the playful pop of bubble gum, creating a fun and flavorful experience reminiscent of childhood treats.",
+      "img": "./images/Boo boo bubble.png",
+      "price": 500,
+      "options": [
         {
-         "id": 1,
-          "title": "Boo Boo Bubble",
-          "desc": "Boo Boo Bubble is a delightful ice cream flavor featuring a creamy vanilla base infused with bursts of colorful bubble gum pieces. Each spoonful offers a nostalgic blend of sweet vanilla and the playful pop of bubble gum, creating a fun and flavorful experience reminiscent of childhood treats.",
-          "img": "./images/Boo boo bubble.png",
-          "price": 500,
-          "options": [
-            {
-              "title": "Small",
-              "additionalPrice": 0
-            },
-            {
-              "title": "Medium",
-              "additionalPrice": 100
-            },
-            {
-              "title": "Large",
-              "additionalPrice": 250
-            }
-          ]
+          "title": "Small",
+          "additionalPrice": 0
         },
         {
-            "id": 2,
-             "title": "Cherry Cheezecake",
-             "desc": "Indulge in the rich and creamy flavor of cherry cheesecake ice cream, blending luscious cherry swirls with decadent cheesecake pieces for a tantalizing treat that perfectly balances fruity sweetness with creamy indulgence.",
-             "img": "./images/cherry cheeze cake.png",
-             "price": 750,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           },
-           {
-            "id": 3,
-             "title": "Chocolate Brownie",
-             "desc": "Dive into a chocolate lover's paradise with our chocolate brownie ice cream, featuring velvety chocolate ice cream swirled with chunks of fudgy brownie pieces, delivering a decadent and satisfyingly rich experience in every spoonful.",
-             "img": "./images/chocolate browny.png",
-             "price": 400,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 300
-               }
-             ]
-           },
-           {
-            "id": 4,
-             "title": "Chocolate Peanut Butter",
-             "desc": "Experience the irresistible combination of smooth chocolate ice cream infused with swirls of creamy peanut butter, creating a heavenly marriage of flavors that will satisfy your sweet cravings and leave you wanting more..",
-             "img": "./images/chocolate peanut butter.png",
-             "price": 650,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 200
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 300
-               }
-             ]
-           },
-           {
-            "id": 5,
-             "title": "Cotton Candy",
-             "desc": "Take a whimsical journey back to childhood with our cotton candy ice cream, capturing the playful essence of fluffy spun sugar in a vibrant swirl of pastel colors, offering a delightful taste of nostalgia with every scoop..",
-             "img": "./images/cotton candy.png",
-             "price": 300,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           },
-           {
-            "id": 6,
-             "title": "Creme Brulee",
-             "desc": "Indulge in the elegance of our creme brulee ice cream, featuring a creamy custard base infused with the delicate flavors of vanilla bean and caramelized sugar, creating a luxurious and sophisticated treat reminiscent of the classic French dessert.",
-             "img": "./images/creme brulee.png",
-             "price": 550,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 200
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 400
-               }
-             ]
-           },
-           {
-            "id": 7,
-             "title": "Espresso Flake",
-             "desc": "Energize your taste buds with our espresso flake ice cream, blending rich espresso flavors with delicate chocolate flakes for a bold and invigorating combination that provides the perfect pick-me-up in every creamy bite.",
-             "img": "./images/Expresso flake.png",
-             "price": 490,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           },
-           {
-            "id": 8,
-             "title": "French Vanilla",
-             "desc": "Savor the timeless elegance of French vanilla ice cream, crafted with the finest Madagascar vanilla beans to deliver a smooth and velvety texture, accented by delicate floral notes and a subtle hint of sweetness.",
-             "img": "./images/French vanilla.png",
-             "price": 24.9,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 200
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 300
-               }
-             ]
-           },
-           {
-            "id": 9,
-             "title": "Frozen Yogurt",
-             "desc": "Enjoy a guilt-free indulgence with our frozen yogurt, offering a refreshing and tangy twist on traditional ice cream, packed with probiotics and available in a variety of delicious flavors to satisfy your cravings without the guilt.",
-             "img": "./images/Frozzen yourgut.png",
-             "price": 200,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 10,
-             "title": "Jelly Bean",
-             "desc": "Embark on a flavor adventure with our jelly bean ice cream, bursting with an array of vibrant jelly bean pieces scattered throughout creamy vanilla ice cream, offering a playful and whimsical treat for your taste buds.",
-             "img": "./images/Jelly been.png",
-             "price": 520,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 11,
-             "title": "Jumbo",
-             "desc": "Treat yourself to our jumbo-sized scoop of creamy goodness, featuring a classic blend of rich vanilla ice cream made with real Madagascar vanilla beans, delivering a satisfyingly indulgent experience in every oversized bite.",
-             "img": "./images/Jumbo.png",
-             "price": 999,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 12,
-             "title": "Mango Ice Cake",
-             "desc": "Transport yourself to a tropical paradise with our mango ice cake, combining the juicy sweetness of ripe mangoes with creamy vanilla ice cream to create a refreshing and exotic flavor sensation that's perfect for summertime enjoyment.",
-             "img": ",/images/mango ice Cream.png",
-             "price": 310,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 13,
-             "title": "Mint Ice Pop",
-             "desc": "Cool off with the refreshing taste of our mint ice pop ice cream, featuring creamy mint-flavored ice cream swirled with chocolate chips for a refreshing and invigorating treat that's perfect for hot summer days.",
-             "img": "./images/mink ice pope.png",
-             "price": 400,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 14,
-             "title": "Pistachio with Almonds",
-             "desc": "Indulge in the nutty goodness of our pistachio with almonds ice cream, blending creamy pistachio ice cream with crunchy almond pieces for a delightful combination of flavors and textures that will satisfy your cravings.",
-             "img": "./images/pistashio with almonds.png",
-             "price": 24.9,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 15,
-             "title": "Rainbow Frozen Parfait",
-             "desc": "Brighten up your day with our rainbow frozen parfait ice cream, featuring layers of colorful fruit sorbet and creamy vanilla ice cream, creating a visually stunning and deliciously refreshing treat that's as delightful to look at as it is to eat.",
-             "img": "./images/rainbow froxen parfait.png",
-             "price": 600,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 16,
-             "title": "Tennessee Toffee",
-             "desc": "Delight in the rich and buttery flavor of Tennessee toffee ice cream, combining creamy vanilla ice cream with swirls of gooey toffee sauce and crunchy toffee pieces for a decadent and indulgent taste experience.",
-             "img": "./images/Tessessee toffee.png",
-             "price": 380,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 17,
-             "title": "Triple Tornado",
-             "desc": "Brace yourself for a whirlwind of flavor with our triple tornado ice cream, featuring a triple threat of chocolate, vanilla, and strawberry ice cream swirled together to create a deliciously twisted treat that's sure to satisfy your cravings.",
-             "img": "./images/Triple tornado.png",
-             "price": 570,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           ,
-           {
-            "id": 18,
-             "title": "Vanilla Cone",
-             "desc": "Enjoy the classic simplicity of our vanilla cone ice cream, featuring creamy vanilla ice cream served in a crispy wafer cone, offering a timeless and satisfying dessert experience that's perfect for any occasion.",
-             "img": "./images/Vanilla cone.png",
-             "price": 99,
-             "options": [
-               {
-                 "title": "Small",
-                 "additionalPrice": 0
-               },
-               {
-                 "title": "Medium",
-                 "additionalPrice": 100
-               },
-               {
-                 "title": "Large",
-                 "additionalPrice": 200
-               }
-             ]
-           }
-           
-  
-  
-  
-  
-  
-  
-  
-  
-    ]
-
-
-
-
-
-
-
-
-
-
-
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 250
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cherry Cheezecake",
+      "desc": "Indulge in the rich and creamy flavor of cherry cheesecake ice cream, blending luscious cherry swirls with decadent cheesecake pieces for a tantalizing treat that perfectly balances fruity sweetness with creamy indulgence.",
+      "img": "./images/cherry cheeze cake.png",
+      "price": 750,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Brownie",
+      "desc": "Dive into a chocolate lover's paradise with our chocolate brownie ice cream, featuring velvety chocolate ice cream swirled with chunks of fudgy brownie pieces, delivering a decadent and satisfyingly rich experience in every spoonful.",
+      "img": "./images/chocolate browny.png",
+      "price": 400,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 300
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Chocolate Peanut Butter",
+      "desc": "Experience the irresistible combination of smooth chocolate ice cream infused with swirls of creamy peanut butter, creating a heavenly marriage of flavors that will satisfy your sweet cravings and leave you wanting more..",
+      "img": "./images/chocolate peanut butter.png",
+      "price": 650,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 200
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 300
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Cotton Candy",
+      "desc": "Take a whimsical journey back to childhood with our cotton candy ice cream, capturing the playful essence of fluffy spun sugar in a vibrant swirl of pastel colors, offering a delightful taste of nostalgia with every scoop..",
+      "img": "./images/cotton candy.png",
+      "price": 300,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Creme Brulee",
+      "desc": "Indulge in the elegance of our creme brulee ice cream, featuring a creamy custard base infused with the delicate flavors of vanilla bean and caramelized sugar, creating a luxurious and sophisticated treat reminiscent of the classic French dessert.",
+      "img": "./images/creme brulee.png",
+      "price": 550,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 200
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 400
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Espresso Flake",
+      "desc": "Energize your taste buds with our espresso flake ice cream, blending rich espresso flavors with delicate chocolate flakes for a bold and invigorating combination that provides the perfect pick-me-up in every creamy bite.",
+      "img": "./images/Expresso flake.png",
+      "price": 490,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "French Vanilla",
+      "desc": "Savor the timeless elegance of French vanilla ice cream, crafted with the finest Madagascar vanilla beans to deliver a smooth and velvety texture, accented by delicate floral notes and a subtle hint of sweetness.",
+      "img": "./images/French vanilla.png",
+      "price": 24.9,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 200
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 300
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Frozen Yogurt",
+      "desc": "Enjoy a guilt-free indulgence with our frozen yogurt, offering a refreshing and tangy twist on traditional ice cream, packed with probiotics and available in a variety of delicious flavors to satisfy your cravings without the guilt.",
+      "img": "./images/Frozzen yourgut.png",
+      "price": 200,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Jelly Bean",
+      "desc": "Embark on a flavor adventure with our jelly bean ice cream, bursting with an array of vibrant jelly bean pieces scattered throughout creamy vanilla ice cream, offering a playful and whimsical treat for your taste buds.",
+      "img": "./images/Jelly been.png",
+      "price": 520,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Jumbo",
+      "desc": "Treat yourself to our jumbo-sized scoop of creamy goodness, featuring a classic blend of rich vanilla ice cream made with real Madagascar vanilla beans, delivering a satisfyingly indulgent experience in every oversized bite.",
+      "img": "./images/Jumbo.png",
+      "price": 999,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Mango Ice Cake",
+      "desc": "Transport yourself to a tropical paradise with our mango ice cake, combining the juicy sweetness of ripe mangoes with creamy vanilla ice cream to create a refreshing and exotic flavor sensation that's perfect for summertime enjoyment.",
+      "img": ",/images/mango ice Cream.png",
+      "price": 310,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Mint Ice Pop",
+      "desc": "Cool off with the refreshing taste of our mint ice pop ice cream, featuring creamy mint-flavored ice cream swirled with chocolate chips for a refreshing and invigorating treat that's perfect for hot summer days.",
+      "img": "./images/mink ice pope.png",
+      "price": 400,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Pistachio with Almonds",
+      "desc": "Indulge in the nutty goodness of our pistachio with almonds ice cream, blending creamy pistachio ice cream with crunchy almond pieces for a delightful combination of flavors and textures that will satisfy your cravings.",
+      "img": "./images/pistashio with almonds.png",
+      "price": 24.9,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Rainbow Frozen Parfait",
+      "desc": "Brighten up your day with our rainbow frozen parfait ice cream, featuring layers of colorful fruit sorbet and creamy vanilla ice cream, creating a visually stunning and deliciously refreshing treat that's as delightful to look at as it is to eat.",
+      "img": "./images/rainbow froxen parfait.png",
+      "price": 600,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Tennessee Toffee",
+      "desc": "Delight in the rich and buttery flavor of Tennessee toffee ice cream, combining creamy vanilla ice cream with swirls of gooey toffee sauce and crunchy toffee pieces for a decadent and indulgent taste experience.",
+      "img": "./images/Tessessee toffee.png",
+      "price": 380,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Triple Tornado",
+      "desc": "Brace yourself for a whirlwind of flavor with our triple tornado ice cream, featuring a triple threat of chocolate, vanilla, and strawberry ice cream swirled together to create a deliciously twisted treat that's sure to satisfy your cravings.",
+      "img": "./images/Triple tornado.png",
+      "price": 570,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Vanilla Cone",
+      "desc": "Enjoy the classic simplicity of our vanilla cone ice cream, featuring creamy vanilla ice cream served in a crispy wafer cone, offering a timeless and satisfying dessert experience that's perfect for any occasion.",
+      "img": "./images/Vanilla cone.png",
+      "price": 99,
+      "options": [
+        {
+          "title": "Small",
+          "additionalPrice": 0
+        },
+        {
+          "title": "Medium",
+          "additionalPrice": 100
+        },
+        {
+          "title": "Large",
+          "additionalPrice": 200
+        }
+      ]
     }
+  ]
+}
