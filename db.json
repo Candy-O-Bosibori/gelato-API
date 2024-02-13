@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Boo Boo Bubble",
       "desc": "Boo Boo Bubble is a delightful ice cream flavor featuring a creamy vanilla base infused with bursts of colorful bubble gum pieces. Each spoonful offers a nostalgic blend of sweet vanilla and the playful pop of bubble gum, creating a fun and flavorful experience reminiscent of childhood treats.",
-      "img": "./images/Boo boo bubble.png",
+      "img": "https://wallpapers.com/images/hd/ice-cream-4235-x-2823-background-obgcu3pf048sn3cs.jpg",
       "price": 500,
       "options": [
         {
@@ -25,7 +25,7 @@
       "id": 2,
       "title": "Cherry Cheezecake",
       "desc": "Indulge in the rich and creamy flavor of cherry cheesecake ice cream, blending luscious cherry swirls with decadent cheesecake pieces for a tantalizing treat that perfectly balances fruity sweetness with creamy indulgence.",
-      "img": "./images/cherry cheeze cake.png",
+      "img": "https://www.tastingtable.com/img/gallery/15best-ice-cream-brands-ranked-upgrade/intro-1653406408.jpg",
       "price": 750,
       "options": [
         {
@@ -46,7 +46,7 @@
       "id": 3,
       "title": "Chocolate Brownie",
       "desc": "Dive into a chocolate lover's paradise with our chocolate brownie ice cream, featuring velvety chocolate ice cream swirled with chunks of fudgy brownie pieces, delivering a decadent and satisfyingly rich experience in every spoonful.",
-      "img": "./images/chocolate browny.png",
+      "img": "https://freerangestock.com/sample/139390/chocolate-ice-cream-dessert.jpg",
       "price": 400,
       "options": [
         {
@@ -67,7 +67,7 @@
       "id": 4,
       "title": "Chocolate Peanut Butter",
       "desc": "Experience the irresistible combination of smooth chocolate ice cream infused with swirls of creamy peanut butter, creating a heavenly marriage of flavors that will satisfy your sweet cravings and leave you wanting more..",
-      "img": "./images/chocolate peanut butter.png",
+      "img": "https://media.istockphoto.com/id/946795762/photo/chocolate-ice-cream-sundae-cup-on-white-background.jpg?s=612x612&w=0&k=20&c=ex5O4wmjkeew7zO4u9To19GFtGIoHFz0RqqVNAIb6mk=",
       "price": 650,
       "options": [
         {
@@ -88,7 +88,7 @@
       "id": 5,
       "title": "Cotton Candy",
       "desc": "Take a whimsical journey back to childhood with our cotton candy ice cream, capturing the playful essence of fluffy spun sugar in a vibrant swirl of pastel colors, offering a delightful taste of nostalgia with every scoop..",
-      "img": "./images/cotton candy.png",
+      "img": "https://media.istockphoto.com/id/162454628/photo/strawberry-ice-cream-cone.jpg?s=612x612&w=0&k=20&c=i9EgfavjhkHNJQQIhpqPanRld1MonMwU5BEnUP1wKQU=",
       "price": 300,
       "options": [
         {
@@ -109,7 +109,7 @@
       "id": 6,
       "title": "Creme Brulee",
       "desc": "Indulge in the elegance of our creme brulee ice cream, featuring a creamy custard base infused with the delicate flavors of vanilla bean and caramelized sugar, creating a luxurious and sophisticated treat reminiscent of the classic French dessert.",
-      "img": "./images/creme brulee.png",
+      "img": "https://img.freepik.com/premium-photo/set-colorful-ice-cream-white-background_807701-3407.jpg?w=1380",
       "price": 550,
       "options": [
         {
@@ -130,7 +130,7 @@
       "id": 7,
       "title": "Espresso Flake",
       "desc": "Energize your taste buds with our espresso flake ice cream, blending rich espresso flavors with delicate chocolate flakes for a bold and invigorating combination that provides the perfect pick-me-up in every creamy bite.",
-      "img": "./images/Expresso flake.png",
+      "img": "https://s1.1zoom.me/big0/757/Sweets_Ice_cream_White_background_Balls_Multicolor_549683_1209x1024.jpg",
       "price": 490,
       "options": [
         {
@@ -151,7 +151,7 @@
       "id": 8,
       "title": "French Vanilla",
       "desc": "Savor the timeless elegance of French vanilla ice cream, crafted with the finest Madagascar vanilla beans to deliver a smooth and velvety texture, accented by delicate floral notes and a subtle hint of sweetness.",
-      "img": "./images/French vanilla.png",
+      "img": "https://as1.ftcdn.net/v2/jpg/02/42/62/88/1000_F_242628865_06V4jqbtp0b58UbZjAu4bQWA5efBIs79.jpg",
       "price": 24.9,
       "options": [
         {
@@ -172,7 +172,7 @@
       "id": 9,
       "title": "Frozen Yogurt",
       "desc": "Enjoy a guilt-free indulgence with our frozen yogurt, offering a refreshing and tangy twist on traditional ice cream, packed with probiotics and available in a variety of delicious flavors to satisfy your cravings without the guilt.",
-      "img": "./images/Frozzen yourgut.png",
+      "img": "https://st2.depositphotos.com/4366637/12182/i/450/depositphotos_121821460-stock-photo-sundae-with-chocolate-syrup.jpg",
       "price": 200,
       "options": [
         {
