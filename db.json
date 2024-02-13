@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Boo Boo Bubble",
-      "desc": "Boo Boo Bubble is a delightful ice cream flavor featuring a creamy vanilla base infused with bursts of colorful bubble gum pieces. Each spoonful offers a nostalgic blend of sweet vanilla and the playful pop of bubble gum, creating a fun and flavorful experience reminiscent of childhood treats.",
+      "desc": "Boo Boo Bubble is a delightful ice cream flavor featuring a creamy vanilla base infused with bursts of colorful bubble gum pieces. Each spoonful offers a nostalgic blend of sweet vanilla and the playful pop of bubble gumcent .",
       "img": "https://media.gettyimages.com/id/1629004984/photo/triple-ice-cream-cones-of-different-flavors-on-a-white-background.jpg?s=612x612&w=0&k=20&c=Xx0PMQCoZRIvquhhZSMm5maEaXCW6NMktRdQcLFYahA=",
       "price": 500,
       "options": [
@@ -108,7 +108,7 @@
     {
       "id": 6,
       "title": "Creme Brulee",
-      "desc": "Indulge in the elegance of our creme brulee ice cream, featuring a creamy custard base infused with the delicate flavors of vanilla bean and caramelized sugar, creating a luxurious and sophisticated treat reminiscent of the classic French dessert.",
+      "desc": "Indulge in the elegance of our creme brulee ice cream, featuring a creamy custard base infused with the delicate flavors of vanilla bean and caramelized sugar, creating a luxurious and sophisticated treat reminiscent ",
       "img": "https://media.gettyimages.com/id/156725201/photo/ice-cream-with-strawberries-and-chocolate.jpg?s=612x612&w=0&k=20&c=YvWH3u6LcVK8YKDWH5iZD2HUspBKzX-267BHCd2SJnM=",
       "price": 550,
       "options": [
