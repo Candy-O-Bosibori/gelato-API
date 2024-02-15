@@ -9,15 +9,15 @@
       "options": [
         {
           "title": "Small",
-          "additionalPrice": 0
+          "additionalPrice": 500
         },
         {
           "title": "Medium",
-          "additionalPrice": 100
+          "additionalPrice": 600
         },
         {
           "title": "Large",
-          "additionalPrice": 250
+          "additionalPrice": 700
         }
       ]
     },
